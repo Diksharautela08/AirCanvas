@@ -107,11 +107,9 @@ The `saved_drawings/` and `screenshots/` folders may need to be created when you
 ### Step 1: Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/Diksharautela08/AirCanvas
 cd AirCanvas-Pro
 ```
-
-Replace `YOUR_GITHUB_REPOSITORY_URL` with your actual repository URL.
 
 ### Step 2: Create a virtual environment
 
