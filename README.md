@@ -88,13 +88,7 @@ AirCanvas-Pro/
 │   └── hand_landmarker.task
 │
 ├── saved_drawings/
-│   └── Generated PNG artwork
-│
-└── screenshots/
-    └── Application screenshots
-```
-
-The `saved_drawings/` and `screenshots/` folders may need to be created when you use the application or prepare your submission.
+   └── Generated PNG artwork.
 
 ## 10. Installation and Setup
 
